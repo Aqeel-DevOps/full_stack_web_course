@@ -1,0 +1,149 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#con {
+    width: 75%;
+    height: 1500px;
+    border: 1px solid black;
+    box-shadow: 3px 8px 15px 2px black;
+    margin-left: 200px;
+}
+
+#con img{
+    width: 150px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 20px;
+    border: 2px solid blue;
+}
+
+.one h1{
+    text-align: center;
+    margin-left: 150px;
+    font-size: 70px;
+    margin-top: 70px;
+    font-family:'Times New Roman', Times, serif;
+  
+}
+.one h2{
+    text-align: center;
+    margin-left: 150px;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+}
+.two{
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.two p {
+    text-align: justify;
+    font-size: 20px;
+    text-align-last: center;
+    
+}
+.three {
+    margin-top: 50px;
+    width: 49%;
+    float: left;
+    height: 1000px;
+    border-right: 3px solid rgb(22, 12, 164);
+}
+
+.three h1{
+    font-size: 40px;
+    padding-left: 100px;
+}
+.three h2{
+    font-size: 25px;
+    padding-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.three .icon {
+    width: 200px;
+    height: 15px;
+    border-radius: 20px;
+    background-color: rgb(162, 7, 170);
+    margin-left: 100px;
+
+}
+.three .icon .icon-2 {
+    width: 150px;
+    height: 15px;
+    border-radius: 20px;
+    background-color: rgb(217, 220, 222);
+}
+.three .icon .icon-2 span{
+    margin-left: 220px;
+    font-size: 25px;
+    position: relative;
+    top: -6px;
+
+}
+.three ul{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 25px;
+    list-style-position: inside;
+    line-height: 30px;
+
+}
+
+
+.four{
+    margin-top: 50px;
+    width: 50%;
+    border-left: 3px solid rgb(22, 12, 164);
+    height: 1000px;
+    float: right;
+}
+.four h1{
+    font-size: 40px;
+    padding-left: 70px;
+}
+.four ul{
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 25px;
+    list-style-position: inside;
+    line-height:30px;
+
+}
+.four ul li{
+    margin-top: 20px;
+}
+.four p {
+    margin-top: 10px;
+}
+.four .para{
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: justify;
+    margin-left: 70px;
+    margin-right: 20px;
+
+}
+.four ol{
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 25px;
+    list-style-position: inside;
+    list-style: none;
+    line-height:30px;
+
+}
+.four ol li {
+    margin-top: 10px;
+}
+.four .fa-solid{
+    color: blue;
+    font-size: 20px;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+
